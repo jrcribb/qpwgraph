@@ -4,6 +4,12 @@ qpwgraph - A PipeWire Graph Qt GUI Interface
 ChangeLog
 
 
+GIT HEAD
+
+- Make sure thumb-view widget background is filled/opaque (ie.
+  not transparent)
+
+
 1.0.1  2026-04-21  A Spring'26 Release.
 
 - Added remote daemon name and modified state labels to the main
