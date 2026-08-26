@@ -4,7 +4,7 @@ qpwgraph - A PipeWire Graph Qt GUI Interface
 ChangeLog
 
 
-GIT HEAD
+1.0.4  2026-08-26  A Mid-Summer'26 Release.
 
 - Graph/Options.../Custom/Color theme (with palette editor) and
   (widget) Style theme selectors are introduced (with preview).
